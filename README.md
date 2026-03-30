@@ -150,16 +150,9 @@ This makes randomized Quicksort more dependable in practical use.
 - The writing in the notebook is intentionally separated from the code to improve readability.
 
 ## Author
-**Your Name**
+**Sai Venkata Bharath Reddy Singareddy**
 
 ## Course
 **Algorithms and Data Structures**
 
-## Submission
-For final submission, this project should be uploaded to a GitHub repository along with:
-
-- the notebook
-- the report
-- this README file
-
-Then submit the GitHub repository link as required by the assignment.
+repository link as required by the assignment.
